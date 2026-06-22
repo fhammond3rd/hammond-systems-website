@@ -84,7 +84,7 @@ a:hover {
 }
 
 .header-inner {
-  min-height: 84px;
+  min-height: 64px;
   display: flex;
   align-items: center;
   justify-content: space-between;
