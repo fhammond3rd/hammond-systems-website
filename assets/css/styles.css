@@ -170,7 +170,7 @@ a:hover {
   display: grid;
   grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.72fr);
   gap: clamp(36px, 7vw, 92px);
-  align-items: center;
+  align-items: start;
 }
 
 .eyebrow {
